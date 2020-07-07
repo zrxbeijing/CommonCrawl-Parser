@@ -1,0 +1,4 @@
+goose3
+p_tqdm
+bs4
+pandas
