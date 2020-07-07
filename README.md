@@ -31,7 +31,9 @@ $ pip install -r requirements.txt
 Step 3. git clone the following two projects
 
 $ cd CommonCrawl-Parser
+
 $ git clone https://github.com/lxucs/cdx-index-client
+
 $ git clone https://github.com/lxucs/commoncrawl-warc-retrieval
 
 
